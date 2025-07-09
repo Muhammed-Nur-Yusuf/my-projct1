@@ -4,3 +4,5 @@ function my(){
 
 
 console.log("mouhammed")
+console.log("mouhammed")
+console.log("mouhammed")
